@@ -1,5 +1,0 @@
-Temat projektu: Opracowanie architektury i implementacjia zaproponowanych technik w kontekœcie budowy systemu wspomagaj¹cego pracê grup wirtualnych
-
-Minimalne wymagania:
-- Modu³ zarz¹dzania cz³onkami  i grupami projektowymi
-- Modu³ do zarz¹dzania projektami- Modu³ do asynchronicznej wymiany informacji
